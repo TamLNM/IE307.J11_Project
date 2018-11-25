@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Bar_Code_App"
+             x:Class="Bar_Code_App.MainPage">
+
+    <StackLayout>
+        <Button 
+            x:Name="btn_DanhSachSinhVien"
+            Text="DANH SÁCH SINH VIÊN"
+            Clicked="btn_DanhSachSinhVien_Clicked"/>
+
+        <Button 
+            x:Name="btn_ThemSinhVien"
+            Text="THÊM SINH VIÊN"
+            Clicked="btn_ThemSinhVien_Clicked"/>
+
+        <Button 
+            x:Name="btn_TraCuuSinhVien"
+            Text="TRA CỨU SINH VIÊN"
+            Clicked="btn_TraCuuSinhVien_Clicked"/>
+
+
+        <Button
+            x:Name="btn_DiemDanh"
+            Text="ĐIỂM DANH"/>
+    </StackLayout>
+
+</ContentPage>

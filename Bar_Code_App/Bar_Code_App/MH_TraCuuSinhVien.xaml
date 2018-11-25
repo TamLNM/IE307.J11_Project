@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bar_Code_App.MH_TraCuuSinhVien">
+        
+    <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center">
+        <Button
+            x:Name="btn_TraCuuTheoMSSV"
+            Text="TÌM KIẾM THEO MSSV"
+            Clicked="btn_TraCuuTheoMSSV_Clicked"/>
+
+        <Button
+            x:Name="btnScanDefault"
+            Text="TÌM KIẾM THEO BARCODE"/>
+    </StackLayout>
+    
+</ContentPage>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bar_Code_App.MH_TraCuuTheoMSSV">
+    <StackLayout>
+        <Entry Placeholder="Nhập MSSV"/>
+
+        <Button
+            x:Name="btn_TraCuuTheoMSSV"
+            Text="TRA CỨU"/>
+    </StackLayout>
+</ContentPage>
