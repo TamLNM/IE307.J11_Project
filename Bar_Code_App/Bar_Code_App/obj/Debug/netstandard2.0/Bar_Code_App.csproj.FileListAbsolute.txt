@@ -28,3 +28,13 @@ D:\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\Bar_Code
 D:\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\XamlC.stamp
 D:\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\Bar_Code_App.dll
 D:\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\Bar_Code_App.pdb
+C:\Users\LE DUYEN MINH\Downloads\xamarin\IE307.J11_Project\Bar_Code_App\Bar_Code_App\bin\Debug\netstandard2.0\Bar_Code_App.deps.json
+C:\Users\LE DUYEN MINH\Downloads\xamarin\IE307.J11_Project\Bar_Code_App\Bar_Code_App\bin\Debug\netstandard2.0\Bar_Code_App.dll
+C:\Users\LE DUYEN MINH\Downloads\xamarin\IE307.J11_Project\Bar_Code_App\Bar_Code_App\bin\Debug\netstandard2.0\Bar_Code_App.pdb
+C:\Users\LE DUYEN MINH\Downloads\xamarin\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\Bar_Code_App.csprojAssemblyReference.cache
+C:\Users\LE DUYEN MINH\Downloads\xamarin\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\Bar_Code_App.csproj.CoreCompileInputs.cache
+C:\Users\LE DUYEN MINH\Downloads\xamarin\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\Bar_Code_App.AssemblyInfoInputs.cache
+C:\Users\LE DUYEN MINH\Downloads\xamarin\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\Bar_Code_App.AssemblyInfo.cs
+C:\Users\LE DUYEN MINH\Downloads\xamarin\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\LE DUYEN MINH\Downloads\xamarin\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\Bar_Code_App.dll
+C:\Users\LE DUYEN MINH\Downloads\xamarin\IE307.J11_Project\Bar_Code_App\Bar_Code_App\obj\Debug\netstandard2.0\Bar_Code_App.pdb

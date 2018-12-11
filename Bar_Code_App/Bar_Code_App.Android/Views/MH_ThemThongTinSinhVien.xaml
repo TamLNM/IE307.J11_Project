@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
+             x:Class="Bar_Code_App.MH_ThemThongTinSinhVien">
+
+    <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center">
+        <Label Text="THÊM THÔNG TIN SINH VIÊN"/>
+
+        <Entry x:Name="contentEntry" Placeholder="MSSV"/>
+
+        <Entry Placeholder="Nhập họ tên sinh viên"/>
+
+        <Entry Placeholder="Nhập lớp"/>
+
+        <StackLayout
+            Orientation="Horizontal"
+            HorizontalOptions="Center">
+            
+            <Label
+            x:Name="lbl_MaBarcode"
+            Text="Mã barcode: "/>
+            
+            
+            <Button Text="Phát sinh" HorizontalOptions="FillAndExpand" BackgroundColor="#2196F3" TextColor="White" Clicked="btn_taobarcode_Clicked"></Button>
+            
+        </StackLayout>
+       
+        <Button
+            x:Name="btnScanDefault"
+            Text="THÊM"/>
+    </StackLayout>
+    
+</ContentPage>

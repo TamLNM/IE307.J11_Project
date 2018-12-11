@@ -1,6 +1,11 @@
 Bar_Code_App
 FastAndroidCamera
 FormsViewGroup
+Microsoft.IdentityModel.Clients.ActiveDirectory
+SQLite.Net
+SQLite.Net.Platform.XamarinAndroid
+System.Drawing.Common
+System.Drawing.Primitives
 System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
@@ -10,6 +15,7 @@ Xamarin.Android.Support.Annotations
 Xamarin.Android.Support.Compat
 Xamarin.Android.Support.Core.UI
 Xamarin.Android.Support.Core.Utils
+Xamarin.Android.Support.CustomTabs
 Xamarin.Android.Support.Design
 Xamarin.Android.Support.Fragment
 Xamarin.Android.Support.Media.Compat
@@ -25,9 +31,12 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
+ZKWeb.System.Drawing
+zxing.monoandroid
 ZXing.Net.Mobile.Core
 ZXing.Net.Mobile.Forms.Android
 ZXing.Net.Mobile.Forms
 zxing.portable
 ZXingNetMobile
 netstandard
+System.Reflection.Extensions
